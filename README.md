@@ -1,14 +1,14 @@
 # Servidor UDP
 
-## 1.Tenha o python 3 instalado.
-## 2. Tenha o postgreSQL instalado em sua maquina.
-## 3. Instale os pacotes necessarios para a execução.
+### 1.Tenha o Python 3 instalado.
+### 2. Tenha o PostgreSQL instalado em sua maquina.
+### 3. Instale os pacotes necessarios para a execução.
 
 <pre>
 pip install psycopg2 python-dotenv socket
 </pre>
-
-## 4. Execute o script python
+### 4. Renomeie o arquivo .env_Example para .env e preencha as variaveis de ambiente com os dados do seu banco PostgreSQL.
+### 5. Execute o script python
 
 <pre>
 python socket_udp.py
