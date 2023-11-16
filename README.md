@@ -23,4 +23,4 @@ python simulate.py
 </pre>
 
 
-## 2. Para encerrar aperter CTRL+C.
+## 2. Para encerrar aperte CTRL+C.
